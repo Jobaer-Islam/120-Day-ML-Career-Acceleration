@@ -3,16 +3,16 @@
 ## 📅 Timeline
 **Duration:** 120 Days  
 **Focus:** Cracking a Machine Learning / AI role  
-**Start Date:** 15 Dec 2025
-**End Date:** 15 Apr 2026
+**Start Date:** 13 Dec 2025
+**End Date:**  Apr 2026
 
 ---
 
 ## ✅ Daily Progress Log
 
 ### Week 1
-- **Day 1 (15 Dec 2025)** 
-- **Day 2 (16 Dec 2025)** Control flow and logic — short-circuiting, truthiness, floating-point precision, ternary expressions
+- **Day 1 (15 Dec 2025) :** Python memory model, immutability, safe input patterns, and arithmetic logic.
+- **Day 2 (16 Dec 2025) :** Control flow and logic — short-circuiting, truthiness, floating-point precision, ternary expressions
 - **Day 3**
 - Day 4
 - Day 5
