@@ -335,5 +335,3 @@ They are essential for:
 * Async programming
 
 ---
-
-Just tell me what to add next.
